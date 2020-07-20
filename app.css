@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    border: 0;
+    margin: 40px;
+    font-family: monospace;
+}
+
+body{
+    background:#845EC2;
+    color:rgb(48, 7, 7);
+}
+
+.talk{
+    padding: 10px;
+    border-radius: 10px;
+border-color: teal;
+border: 3px;
+background: yellowgreen;
+
+}
+
+button:hover{
+   cursor: pointer;
+}
