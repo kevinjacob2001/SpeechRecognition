@@ -3,16 +3,11 @@ const content=document.querySelector(".content");
 
 const greetings=[
     "Hai there!Sweetheart its me Kevin, i am doing well",
-    "Goodafternoon,I am watching a movie with Varsha ",
-    "Goodevening Mrs.Parippuvada philip,What about having a cup of tea?",
+    "Goodafternoon,I am watching a movie",
+    "Goodevening,What about having a cup of tea?",
     "Hello Mrs.Aron Yan",
-    "Hello Preyemwadha Its me Kevin! I am doing well, What's up? Is Aaron Yan doing well?",
+    "Hello Juliet Its me Kevin! I am doing well, What's up?",
  "Helloo chakkarae, i am fine"
-]
-
-const friends=[
-    "Friend,best friend,all time crush,chakkara,application tester...Actually i dont know,All i know is that i just love you!"
-
 ]
 
 
